@@ -1,0 +1,33 @@
+html{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+body{
+    background: cadetblue;
+}
+
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+
+td{
+    width: 45px;
+    height: 45px;
+    text-align: center;
+}
+
+.light{
+    background: rgb(255, 242, 151);
+}
+
+.dark{
+    background: #6b5f03;
+}
+
+p{
+    position: absolute;
+    left: calc(50% - 195px);
+}
